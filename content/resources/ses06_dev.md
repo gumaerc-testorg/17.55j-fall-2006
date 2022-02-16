@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Notes from the lecture session.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-55j-introduction-to-latin-american-studies-fall-2006/54d257deb7aee1410a5032e71a8bcd16_ses06_dev.pdf
+file: /media/courses/17-55j-introduction-to-latin-american-studies-fall-2006/54d257deb7aee1410a5032e71a8bcd16_ses06_dev.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses06_dev.pdf
 uid: 54d257de-b7ae-e141-0a50-32e71a8bcd16

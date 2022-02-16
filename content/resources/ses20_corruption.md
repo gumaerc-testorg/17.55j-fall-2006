@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-55j-introduction-to-latin-american-studies-fall-2006/b88b9553a826c85ea0c3999741c5902c_ses20_corruption.pdf
+file: /media/courses/17-55j-introduction-to-latin-american-studies-fall-2006/b88b9553a826c85ea0c3999741c5902c_ses20_corruption.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses20_corruption.pdf
 uid: b88b9553-a826-c85e-a0c3-999741c5902c

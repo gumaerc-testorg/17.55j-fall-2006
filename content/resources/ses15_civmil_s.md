@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-55j-introduction-to-latin-american-studies-fall-2006/1ae7deaa4a303f693934115f5b1d6eac_ses15_civmil_s.pdf
+file: /media/courses/17-55j-introduction-to-latin-american-studies-fall-2006/1ae7deaa4a303f693934115f5b1d6eac_ses15_civmil_s.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses15_civmil_s.pdf
 uid: 1ae7deaa-4a30-3f69-3934-115f5b1d6eac

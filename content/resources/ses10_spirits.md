@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Notes from the class discussion.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-55j-introduction-to-latin-american-studies-fall-2006/c815c5a54040d65b469349d7f02b0687_ses10_spirits.pdf
+file: /media/courses/17-55j-introduction-to-latin-american-studies-fall-2006/c815c5a54040d65b469349d7f02b0687_ses10_spirits.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses10_spirits.pdf
 uid: c815c5a5-4040-d65b-4693-49d7f02b0687

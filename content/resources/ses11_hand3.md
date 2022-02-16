@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-55j-introduction-to-latin-american-studies-fall-2006/a28ae3090766ee73908abec3ab273123_ses11_hand3.pdf
+file: /media/courses/17-55j-introduction-to-latin-american-studies-fall-2006/a28ae3090766ee73908abec3ab273123_ses11_hand3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses11_hand3.pdf
 uid: a28ae309-0766-ee73-908a-bec3ab273123
