@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,9 +8,9 @@ title: Assignments
 uid: 6c88c471-252c-6c2d-a634-4739fda2d7f3
 ---
 
-Hints for Writing Papers ([PDF]({{< baseurl >}}/resources/paper_hints))
+Hints for Writing Papers ({{% resource_link 30e59f1f-caea-d106-75a7-5bcb12b43ff7 "PDF" %}})
 
-Hints for Presentations ([PDF]({{< baseurl >}}/resources/present_hints))
+Hints for Presentations ({{% resource_link ff609143-1360-0a6d-8926-266f1c555ff5 "PDF" %}})
 
 First Paper Topic
 -----------------
