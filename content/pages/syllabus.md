@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the syllabus for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0c4e37cb-1232-4e39-b003-974b727633c7
 ---
@@ -19,7 +22,7 @@ This HASS-D/CI course is designed as an introduction to Latin American politics 
 Course Requirements
 -------------------
 
-Requirements include weekly course [readings]({{< baseurl >}}/pages/readings) and videos; active participation in class discussions, class presentations, and the class debate; three short papers (two of which must be revised and resubmitted); one in-class map test; and one three-hour final exam.
+Requirements include weekly course {{% resource_link 631a8e95-d1c3-00fc-8487-fc07acfee18c "readings" %}} and videos; active participation in class discussions, class presentations, and the class debate; three short papers (two of which must be revised and resubmitted); one in-class map test; and one three-hour final exam.
 
 Required Texts
 --------------
@@ -78,7 +81,7 @@ The TA(s) and I would like to practice blind grading, so please don't include a 
 Class Participation
 -------------------
 
-You are expected to participate in class discussion throughout the semester. Participation includes informal class discussion of the readings and films, in-class presentations, and a formal class debate. Attendance is obviously a prerequisite for class participation. If you must miss a class, you should notify me in advance. More than two unexcused absences will seriously jeopardize your class participation grade. (A handy reference sheet on what constitutes an excused absence is available here: ([PDF]({{< baseurl >}}/resources/attendance)).)
+You are expected to participate in class discussion throughout the semester. Participation includes informal class discussion of the readings and films, in-class presentations, and a formal class debate. Attendance is obviously a prerequisite for class participation. If you must miss a class, you should notify me in advance. More than two unexcused absences will seriously jeopardize your class participation grade. (A handy reference sheet on what constitutes an excused absence is available here: ({{% resource_link 37a88fee-ddda-c49e-3e77-d2f57889fee7 "PDF" %}}).)
 
 Also, please notify me at the beginning of the class if, for whatever reason, you are unprepared to participate in class discussion that day. (You need not explain yourself unless you wish to do so.) I "cold call" people occasionally; in a small class there is nowhere to hide. Again, more than two unexcused "unprepareds" will jeopardize your class participation grade.
 

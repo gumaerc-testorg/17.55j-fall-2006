@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 631a8e95-d1c3-00fc-8487-fc07acfee18c
 ---
@@ -69,7 +73,7 @@ L2
 {{< tdopen >}}
 Finish Pop Quiz. Latin America as a "Living Museum"
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Márquez, Gabriel García. "Big Mama's Funeral (short story, 1962)." _No One Writes to the Colonel and Other Stories_. Translated by J. S. Bernstein. New York, NY: Harper Colophone, 1979, pp. 153-70. ISBN: 9780060907006.
@@ -113,7 +117,7 @@ L4
 {{< tdopen >}}
 Conquest, Bourbon "Reconquest," and The Post-Colonial Period
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Winn, Peter. "Children of the Sun," and "A Question of Color." Chapters 7 and 8 in _Americas: The Changing Face of Latin America and the Caribbean_. Berkeley, CA: University of California Press, 1995, pp. 234-303. ISBN: 9780520201811.
@@ -159,7 +163,7 @@ L6
 {{< tdopen >}}
 Lecture: Theories of Development
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Klaren, Peter F. "Lost Promise: Explaining Latin American Underdevelopment." In _Promise of Development: Theories of Change in Latin America_. Edited by Peter F. Klaren and Thomas J. Bossert. Boulder, CO: Westview Press, 1986, pp. 3-33. ISBN: 9780813300078. \[Skip part on "corporatism"\]
@@ -209,7 +213,7 @@ L8
 {{< tdopen >}}
 The Latin American Debt Crisis, Structural Adjustment, and Market-oriented Reform
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Gereffi, Gary. "Drug Firms and Dependency in Mexico: The Case of the Steroid Hormone Industry." _International Organization_ 32 (1978): 237-86.
@@ -251,7 +255,7 @@ R5
 {{< tdopen >}}
 _The Battle for Chile_ (Part I)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Finish reading _The House of the Spirits_.
@@ -288,7 +292,7 @@ L11
 {{< tdopen >}}
 Lecture: The Breakdown of Chilean Democracy
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Valenzuela, Arturo. "Chile: Origins, Consolidation, and Breakdown of a Democratic Regime." In _Democracy in Developing Countries: Latin America_. Edited by Larry Diamond, Juan Linz, and Seymour Martin Lipset. Boulder, CO: Lynne Rienner, 1989, pp. 216-226. ISBN: 9781555870447.
@@ -334,7 +338,7 @@ L13
 {{< tdopen >}}
 Lecture: Bureaucratic Authoritarianism in Chile and Elsewhere
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Spooner, Mary Helen. _Soldiers in a Narrow Land: The Pinochet Regime in Chile_. Berkeley, CA: University of California press, 1994, pp.163-267. ISBN: 9780520080836.
@@ -380,7 +384,7 @@ L15
 {{< tdopen >}}
 Establishing Civilian Control Over the Military and Transitional Justice
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Hunter, Wendy. "Continuity or Change? Civil-Military Relations in Democratic Argentina, Chile, and Peru." _Political Science Quarterly_ 112, no. 3 (Autumn, 1997): 453-475.
@@ -426,7 +430,7 @@ L17
 {{< tdopen >}}
 Preparations for Class Debate
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Cohen, Stanley. "State Crimes of Previous Regimes: Knowledge, Accountability, and the Policing of the Past." _Law and Social Inquiry_ 20, no. 1 (Winter, 1995): 7-50.
@@ -466,7 +470,7 @@ L19
 {{< tdopen >}}
 Lecture: The Rule of Law in Latin America: "Guilty Until Proven Rich"
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Davis, Diane E. "Undermining the Rule of Law: Democratization and the Dark Side of Police Reform in Mexico." _Latin American Politics and Society_ 48, no. 1 (2006): 55-86.
@@ -523,7 +527,7 @@ Recent articles on police reform in Mexico. On-line sources on police reform in 
 *   Varenik, Robert O. "[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-15.
 *   Arroyo, Mario. "[Evaluando la 'Estrategía Giuliani': la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_, (May 15, 2003): 1-18.
 *   Antonio Carrillo Maza, Marco. "[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/)." _Center for U.S.-Mexican Studies_. _Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-16.
-*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
+*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
 *   Reames, Benjamin. "[Police Forces in Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-11.
 
 
@@ -543,7 +547,7 @@ L22
 {{< tdopen >}}
 Class Discussion of de Soto's Argument. Prepare for Class Presentations
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Holston, James. "The Misrule of Law: Land and Usurpation in Brazil." _Comparative Studies in Society and History_ 33, no. 4 (October 1991): 695-725.
@@ -589,7 +593,7 @@ L24
 {{< tdopen >}}
 Lecture: Revolution, Reduction: The New Populism in Latin America
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Winn, Peter. "Latin America and the Caribbean at 2000: A New Millennium?" In _Americas: The Changing Face of Latin America and the Caribbean_. 2nd ed. Berkeley, CA: University of California Press, 1995, pp. 498-521, 527-549. ISBN: 9780520201811.
@@ -629,7 +633,7 @@ L26
 {{< tdopen >}}
 Class Discussion of "Big Mama's Funeral". Lecture: Latin America after Big Mama
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Márquez, Gabriel García. "Big Mama's Funeral (short story, 1962)." In _No One Writes to the Colonel and Other Stories_. Translated by J.S. Bernstein. New York, NY: Harper Colophone, 1979, pp.153-170. ISBN: 9780060907006.
