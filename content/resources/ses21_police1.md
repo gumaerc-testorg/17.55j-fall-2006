@@ -5,6 +5,7 @@ file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/0feff4568
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses21_police1.pdf
 uid: 0feff456-89a0-4758-1822-6527d9309b08
 ---
 Notes from the lecture session.
-

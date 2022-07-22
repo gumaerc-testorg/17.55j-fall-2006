@@ -5,6 +5,7 @@ file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/1ff539fd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses16_religion.pdf
 uid: 1ff539fd-7dbd-e56b-8cd5-8f196073940e
 ---
 Notes from the lecture session.
-

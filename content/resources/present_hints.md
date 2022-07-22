@@ -5,6 +5,7 @@ file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/ff6091431
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: present_hints.pdf
 uid: ff609143-1360-0a6d-8926-266f1c555ff5
 ---
 Suggestions and guidelines for the oral presentation assignments.
-

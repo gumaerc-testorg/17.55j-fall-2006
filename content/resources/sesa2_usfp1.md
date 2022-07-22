@@ -5,6 +5,7 @@ file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/b3c1a8fa5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sesa2_usfp1.pdf
 uid: b3c1a8fa-5b63-66aa-1eff-b5303749c186
 ---
 Notes from the lecture session.
-

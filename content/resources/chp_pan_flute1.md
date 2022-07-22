@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_pan_flute1.jpg
 uid: 990ff8de-bbef-a076-3164-df28df068c91
 ---
 Pan flute. (Image courtesy of Daniel Bersak.)
-
