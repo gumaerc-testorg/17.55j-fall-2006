@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/ba542d7cc83d929ed65a2426d47f183d_ses13_hand3.pdf
+file_size: 18066
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes from the lecture session.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/b3c1a8fa5b6366aa1effb5303749c186_sesa2_usfp1.pdf
+file_size: 54771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

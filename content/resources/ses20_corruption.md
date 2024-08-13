@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/b88b9553a826c85ea0c3999741c5902c_ses20_corruption.pdf
+file_size: 60258
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
