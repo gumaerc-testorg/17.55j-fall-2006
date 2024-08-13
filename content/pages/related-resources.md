@@ -1,16 +1,15 @@
 ---
 content_type: page
 description: 'This section contains the related resources. '
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 041c82d3-2d54-4b46-6a93-a54b86882c3c
 ---
+## General
 
-General
--------
-
-[Latin American Studies Program, University of Texas at Austin](http://www1.lanic.utexas.edu/las.html): This site contains links to country homepages, library collections, Latin American publications in several languages, other university programs, etc.
+[Teresa Lozano Long Institute of Latin American Studies, University of Texas at Austin](https://liberalarts.utexas.edu/llilas/)
 
 [Latin American Studies Association homepage](http://lasa.international.pitt.edu/)
 
@@ -30,7 +29,7 @@ General
 
 [Inter-American Development Bank (IADB)](http://www.iadb.org/)
 
-United States Central Intelligence Agency (CIA), [_The World Factbbook_](https://www.cia.gov/library/publications/the-world-factbook/): Basic declassified information on all countries.
+United States Central Intelligence Agency (CIA), [*The World Factbook*](https://www.cia.gov/the-world-factbook/): Basic declassified information on all countries.
 
 [Economic Commission for Latin America and the Caribbean (ECLAC)](https://www.cepal.org/en)
 
@@ -42,4 +41,4 @@ Latino On-Line News Network (Spanish and English)
 
 [Cultural Survival](http://www.cs.org/)
 
-_Univision_, the Spanish-language television network. Their half-hour news program is broadcast daily at 6:30 p.m. and then again at 10:30 p.m.
+*Univision*, the Spanish-language television network. Their half-hour news program is broadcast daily at 6:30 p.m. and then again at 10:30 p.m.
