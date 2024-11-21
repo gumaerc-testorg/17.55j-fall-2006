@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains graphs for lecture 1.
-file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/9c0512fde19272b21999cef401f09b2c_ses01_graphs_s.pdf
+file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/9c0512fde19272b21999cef401f09b2c_ses01_graphs_s.pdf
 file_size: 165055
 file_type: application/pdf
 learning_resource_types:

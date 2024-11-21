@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from the class discussion.
-file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/c815c5a54040d65b469349d7f02b0687_ses10_spirits.pdf
+file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/c815c5a54040d65b469349d7f02b0687_ses10_spirits.pdf
 file_size: 33400
 file_type: application/pdf
 learning_resource_types:

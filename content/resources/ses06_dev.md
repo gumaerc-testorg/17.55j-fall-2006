@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from the lecture session.
-file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/54d257deb7aee1410a5032e71a8bcd16_ses06_dev.pdf
+file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/54d257deb7aee1410a5032e71a8bcd16_ses06_dev.pdf
 file_size: 88276
 file_type: application/pdf
 learning_resource_types:
