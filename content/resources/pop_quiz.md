@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz questions.
-file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/65a78628327241f221f2f416ac160cfc_pop_quiz.pdf
+file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/65a78628327241f221f2f416ac160cfc_pop_quiz.pdf
 file_size: 11757
 file_type: application/pdf
 learning_resource_types:
