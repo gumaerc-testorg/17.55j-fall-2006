@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about class debate.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/125eecae6f2bdff5a4770c192129105c_ses18_clas_debte.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/125eecae6f2bdff5a4770c192129105c_ses18_clas_debte.pdf
 file_size: 23099
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains rules for class attendance.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/37a88feedddac49e3e77d2f57889fee7_attendance.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/37a88feedddac49e3e77d2f57889fee7_attendance.pdf
 file_size: 25785
 file_type: application/pdf
 learning_resource_types: []
