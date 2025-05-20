@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/50c86573d4854f893db6939c926de244_ses20_corrupt_s.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/50c86573d4854f893db6939c926de244_ses20_corrupt_s.pdf
 file_size: 287364
 file_type: application/pdf
 learning_resource_types:

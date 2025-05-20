@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from the lecture session.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/2de201dab6c050869702cd2cea8d8b4d_ses20_corruption1.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/2de201dab6c050869702cd2cea8d8b4d_ses20_corruption1.pdf
 file_size: 61609
 file_type: application/pdf
 learning_resource_types:
