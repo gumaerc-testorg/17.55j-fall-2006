@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/a28ae3090766ee73908abec3ab273123_ses11_hand3.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/a28ae3090766ee73908abec3ab273123_ses11_hand3.pdf
 file_size: 43347
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggestions and guidelines for the oral presentation assignments.
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/ff60914313600a6d8926266f1c555ff5_present_hints.pdf
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/ff60914313600a6d8926266f1c555ff5_present_hints.pdf
 file_size: 21857
 file_type: application/pdf
 learning_resource_types:

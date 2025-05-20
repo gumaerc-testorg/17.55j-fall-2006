@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pan flute. (Image courtesy of Daniel Bersak.)
-file: /ol-ocw-studio-app/courses/17-55j-introduction-to-latin-american-studies-fall-2006/990ff8debbefa0763164df28df068c91_chp_pan_flute1.jpg
+file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/990ff8debbefa0763164df28df068c91_chp_pan_flute1.jpg
 file_size: 56425
 file_type: image/jpeg
 image_metadata:
