@@ -72,7 +72,7 @@ Finally, at the end of the semester during the official exam period, there will 
 How to Hand in Papers
 ---------------------
 
-For stylistic and substantive advice on writing your papers, see the hints attached to this syllabus. Guidance for formatting can be found at [Online MIT writing and Communication Centre](http://web.mit.edu/writing/NEW/).
+For stylistic and substantive advice on writing your papers, see the hints attached to this syllabus. Guidance for formatting can be found at {{% resource_link "13236e6c-c1fb-4672-b680-e52a2cff9540" "Online MIT writing and Communication Centre" %}}.
 
 Papers that are late will be penalized by one-third of a letter grade for each day late.
 
